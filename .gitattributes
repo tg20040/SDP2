@@ -1,0 +1,2 @@
+YOLO_NAS_Course_streamlit/weights/ckpt_best.pth filter=lfs diff=lfs merge=lfs -text
+YOLO_NAS_Course_streamlit/Video/VR.mp4 filter=lfs diff=lfs merge=lfs -text
